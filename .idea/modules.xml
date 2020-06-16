@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Factory/Abstract factory.iml" filepath="$PROJECT_DIR$/Factory/Abstract factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bridg/Bridg.iml" filepath="$PROJECT_DIR$/Bridg/Bridg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builde/Builde.iml" filepath="$PROJECT_DIR$/Builde/Builde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" filepath="$PROJECT_DIR$/DynamicProxy/DynamicProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Single/Single.iml" filepath="$PROJECT_DIR$/Single/Single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/factory.iml" filepath="$PROJECT_DIR$/Factory/factory.iml" />
+    </modules>
+  </component>
+</project>
